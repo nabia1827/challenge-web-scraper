@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+flask-cors
+flask
+flask-limiter
+python-decouple
+pyodbc
+flask-jwt-extended
